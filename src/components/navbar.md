@@ -42,7 +42,7 @@ function App() {
 ## Props
 
 ```ts
-children: ReactNode; // The content of the button
+children: ReactNode; // The content of the navbar
 ```
 
 ## Used utilities
